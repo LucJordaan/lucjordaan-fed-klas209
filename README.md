@@ -43,8 +43,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/homepage.png" width="375px" alt="homepage van de website">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  fall winter collection men  
-  <img src="readme-images/fallwinter.png" width="375px" alt="fall winter collectie voor mannen">
+  Winkelkarretje  
+  <img src="readme-images/Screenshot 2023-10-02 at 16.37.58.png" width="375px" alt="winkel karretje pagina">
  
 </details>
 
@@ -131,7 +131,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   <img src="readme-images/Screenshot 2023-10-02 at 14.11.18.png" width="375px" alt="screenshot van elementen op tweede pagina">
 
+   <img src="readme-images/Screenshot 2023-10-02 at 16.39.10.png" width="375px" alt="screenshot van lijst van voorgestelde dingen op tweede pagina">
+
+
   -Dit is een element van mijn tweede pagina die lastig leek, en die ik wil proberen.
+
+  -Het voorgestelde deel is eigenlijk een soort slider waarin er elementen bijkomen als je scherm groter word, maar ik weet niet hoe ik dat moet doen dus ik maak het gewoon een grid waar alles onder elkaar valt.
 
 
   ### Agenda voor meeting
