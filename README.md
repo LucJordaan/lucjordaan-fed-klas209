@@ -134,7 +134,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
    <img src="readme-images/Screenshot 2023-10-02 at 16.39.10.png" width="375px" alt="screenshot van lijst van voorgestelde dingen op tweede pagina">
 
 
-  -Dit is een element van mijn tweede pagina die lastig leek, en die ik wil proberen.
+  -Dit is een element van mijn tweede pagina die lastig leek, en die ik wil proberen. 
 
   -Het voorgestelde deel is eigenlijk een soort slider waarin er elementen bijkomen als je scherm groter word, maar ik weet niet hoe ik dat moet doen dus ik maak het gewoon een grid waar alles onder elkaar valt.
 

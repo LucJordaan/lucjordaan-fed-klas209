@@ -38,7 +38,7 @@
 
 @font-face {
 	font-family: LoroPiana-font;
-	src: url(/Users/lucjordaan/Downloads/OriginalGaramondBT-Roman.otf);
+	src: url(/EBGaramond-VariableFont_wght.ttf);
 }
 
 /* NAVIGATIE */
@@ -236,7 +236,7 @@ main section:first-of-type{
 /* BODY STYLING */
 
 body{
-	font-family: LoroPiana-font, 'Franklin Gothic Medium';
+	font-family: 'LoroPiana-font', 'Franklin Gothic Medium';
 	margin: 0;
 	background-color: var(--color-background);
 }
