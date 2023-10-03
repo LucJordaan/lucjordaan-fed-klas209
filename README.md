@@ -58,7 +58,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
-  Ik was in week 2 nog totaal niet ver met mijn eigen website. Ik was in de lessen voornamelijk bezig met de opdrachten, en dus niet met mijn website. Dit had als gevolg dat ik eigenlijk alleen een header had zonder vormgeving.
+  Ik was in week 2 nog totaal niet ver met mijn eigen website. Ik was in de lessen voornamelijk bezig met de opdrachten, en dus niet met mijn website. Dit had als gevolg dat ik eigenlijk alleen een header had zonder vormgeving. Ik ben hierna hard aan de bak gegaan met de content vastleggen, uitschetsen en in mijn html te zetten. Hier was ik voornamelijk mee bezig deze week.
 
 </details>
 
@@ -94,7 +94,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   <img src="readme-images/Screenshot 2023-10-02 at 14.08.16.png" width="375px" alt="code van mijn header/ hamburgermenudie niet goed werkt">
 
-  -Ik heb heel lang zitten kloten met een hamburger menu en uiteindelijk is het soort van gelukt, maar ik ben er niet helemaal blij mee.
+  -Ik heb heel lang zitten kloten met een hamburger menu en uiteindelijk is het soort van gelukt, maar ik ben er niet helemaal blij mee. Op klein scherm is het gelukt maar op groot scherm kwam er allemaal content bij uit de hamburger menu. En die kwam in de nav terecht. Ik wist niet hoe dat werkte, dus ik heb een versimpelde versie er van gedaan.
 
 
   ### Agenda voor meeting
@@ -113,6 +113,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - punt 1: Ik moet mijn header echt afmaken
   - punt 2: Ik moet eerst even de basis elementen in HTML zetten voordat ik teveel aan mijn vormgeving zit.
   - nog een punt: Mijn background image werkte niet mee.
+  - Punt 3: Mijn website is niet heel user friendly voor mensen die blind zijn.
+  - punt 4: Veel elementen hadden geen heading in de site en dat ia niet heek user friendly.
   - ...
 
 </details>
@@ -131,12 +133,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   <img src="readme-images/Screenshot 2023-10-02 at 14.11.18.png" width="375px" alt="screenshot van elementen op tweede pagina">
 
-   <img src="readme-images/Screenshot 2023-10-02 at 16.39.10.png" width="375px" alt="screenshot van lijst van voorgestelde dingen op tweede pagina">
+  <img src="readme-images/Screenshot 2023-10-02 at 16.39.10.png" width="375px" alt="screenshot van lijst van voorgestelde dingen op tweede pagina">
 
 
-  -Dit is een element van mijn tweede pagina die lastig leek, en die ik wil proberen. 
+  -Dit is een element van mijn tweede pagina die lastig leek, en die ik wil proberen.
 
-  -Het voorgestelde deel is eigenlijk een soort slider waarin er elementen bijkomen als je scherm groter word, maar ik weet niet hoe ik dat moet doen dus ik maak het gewoon een grid waar alles onder elkaar valt.
+  -Het voorgestelde deel is eigenlijk een soort slider waarin er elementen bijkomen als je scherm groter word, maar ik weet niet hoe ik dat moet doen dus ik maak het gewoon een grid waar alles onder elkaar valt. Dit vond ik belangrijker dan dat je een slider hebt die de helft van de content verstopt.
 
 
   ### Agenda voor meeting
@@ -154,7 +156,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   - punt 1: Ik heb de basis elementen in HTML en moet nu gaan beginnen aan de vormgeving
   - punt 2: De vormgeving is moeilijker dan ik dacht, en ik ben al heel veel tijd kwijt daaraan.
-  - nog een punt
+  - punt 3: Ik ben ook begonnen aan de tweede pagina.
+  - punt 4: Mijn website is nog totaal niet responsive dus ik moet nu gaan leren hoe media queries werken.
 - ...
 
 </details>
@@ -173,6 +176,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   -Veel van mijn elementen had ik niet in een echte link gemaakt, maar meer gebruikt als filler. Hierdoor werkte de screenreader niet helemaal.
   -Verder werkte het navigeren door de site prima.
+  -Bepaalde links worden steeds genoemd als "link" en dat is niet toegankelijk voor blinde mensen.
+  -Ik moet ook meer discriptive alt tags gebruiken voor mijn images en links, bijvoorbeeld waar de links heen gaan etc. Dit is anders echt niet toegankelijk.
+  -De h2 tags worden wel goed opgelezen door de screenreader.
 
 </details>
 
