@@ -58,7 +58,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
-  Ik was in week 2 nog totaal niet ver met mijn eigen website. Ik was in de lessen voornamelijk bezig met de opdrachten, en dus niet met mijn website. Dit had als gevolg dat ik eigenlijk alleen een header had zonder vormgeving. Ik ben hierna hard aan de bak gegaan met de content vastleggen, uitschetsen en in mijn html te zetten. Hier was ik voornamelijk mee bezig deze week.
+  <img src="readme-images/Screenshot 2023-10-11 at 20.17.16.png" width="375px" alt="oefening codepen">
+
+  Ik was in week 2 nog totaal niet ver met mijn eigen website. Ik was in de lessen voornamelijk bezig met de opdrachten, en dus niet met mijn website. Dit had als gevolg dat ik eigenlijk alleen een header had zonder vormgeving.
+
+  <img src="readme-images/Screenshot 2023-10-11 at 19.23.28.png" width="375px" alt="bovenkant van WDA checklist">
+  <img src="readme-images/Screenshot 2023-10-11 at 19.23.46.png" width="375px" alt="middelste twee paginas WDA checklist">
+  <img src="readme-images/Screenshot 2023-10-11 at 19.23.53.png" width="375px" alt="laatste twee pagina's WDA checklist">
+ 
+ 
+ 
 
 </details>
 
@@ -94,7 +103,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   <img src="readme-images/Screenshot 2023-10-02 at 14.08.16.png" width="375px" alt="code van mijn header/ hamburgermenudie niet goed werkt">
 
-  -Ik heb heel lang zitten kloten met een hamburger menu en uiteindelijk is het soort van gelukt, maar ik ben er niet helemaal blij mee. Op klein scherm is het gelukt maar op groot scherm kwam er allemaal content bij uit de hamburger menu. En die kwam in de nav terecht. Ik wist niet hoe dat werkte, dus ik heb een versimpelde versie er van gedaan.
+  -Ik heb heel lang zitten kloten met een hamburger menu en uiteindelijk is het soort van gelukt, maar ik ben er niet helemaal blij mee.
 
 
   ### Agenda voor meeting
@@ -113,8 +122,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - punt 1: Ik moet mijn header echt afmaken
   - punt 2: Ik moet eerst even de basis elementen in HTML zetten voordat ik teveel aan mijn vormgeving zit.
   - nog een punt: Mijn background image werkte niet mee.
-  - Punt 3: Mijn website is niet heel user friendly voor mensen die blind zijn.
-  - punt 4: Veel elementen hadden geen heading in de site en dat ia niet heek user friendly.
   - ...
 
 </details>
@@ -133,12 +140,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   <img src="readme-images/Screenshot 2023-10-02 at 14.11.18.png" width="375px" alt="screenshot van elementen op tweede pagina">
 
-  <img src="readme-images/Screenshot 2023-10-02 at 16.39.10.png" width="375px" alt="screenshot van lijst van voorgestelde dingen op tweede pagina">
+   <img src="readme-images/Screenshot 2023-10-02 at 16.39.10.png" width="375px" alt="screenshot van lijst van voorgestelde dingen op tweede pagina">
 
 
-  -Dit is een element van mijn tweede pagina die lastig leek, en die ik wil proberen.
+  -Dit is een element van mijn tweede pagina die lastig leek, en die ik wil proberen. 
 
-  -Het voorgestelde deel is eigenlijk een soort slider waarin er elementen bijkomen als je scherm groter word, maar ik weet niet hoe ik dat moet doen dus ik maak het gewoon een grid waar alles onder elkaar valt. Dit vond ik belangrijker dan dat je een slider hebt die de helft van de content verstopt.
+  -Het voorgestelde deel is eigenlijk een soort slider waarin er elementen bijkomen als je scherm groter word, maar ik weet niet hoe ik dat moet doen dus ik maak het gewoon een grid waar alles onder elkaar valt.
 
 
   ### Agenda voor meeting
@@ -156,8 +163,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   - punt 1: Ik heb de basis elementen in HTML en moet nu gaan beginnen aan de vormgeving
   - punt 2: De vormgeving is moeilijker dan ik dacht, en ik ben al heel veel tijd kwijt daaraan.
-  - punt 3: Ik ben ook begonnen aan de tweede pagina.
-  - punt 4: Mijn website is nog totaal niet responsive dus ik moet nu gaan leren hoe media queries werken.
+  - punt 3: 
 - ...
 
 </details>
@@ -174,11 +180,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
-  -Veel van mijn elementen had ik niet in een echte link gemaakt, maar meer gebruikt als filler. Hierdoor werkte de screenreader niet helemaal.
+  -Veel van mijn elementen had ik niet in een echte link gemaakt, maar meer gebruikt als filler. Hierdoor werkte de screenreader niet helemaal. Dus ik heb ze vervangen door echte links.
   -Verder werkte het navigeren door de site prima.
-  -Bepaalde links worden steeds genoemd als "link" en dat is niet toegankelijk voor blinde mensen.
-  -Ik moet ook meer discriptive alt tags gebruiken voor mijn images en links, bijvoorbeeld waar de links heen gaan etc. Dit is anders echt niet toegankelijk.
-  -De h2 tags worden wel goed opgelezen door de screenreader.
+  -De screenreader werkte daarna gewoon zoals het hoort.
+  -Alleen het element met die slider waar de screenreader steeds "link, link link" zegt moet ik weg halen.
+
+
+  <img src="readme-images/Screenshot 2023-10-11 at 19.23.28.png" width="375px" alt="bovenkant van WDA checklist">
+  <img src="readme-images/Screenshot 2023-10-11 at 19.23.46.png" width="375px" alt="middelste twee paginas WDA checklist">
+  <img src="readme-images/Screenshot 2023-10-11 at 19.23.53.png" width="375px" alt="laatste twee pagina's WDA checklist">
 
 </details>
 
@@ -194,10 +204,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-  <img src="readme-images/Screenshot 2023-10-02 at 13.45.55.png" width="375px" alt="section tennis walk shoes lukt niet">
-  <img src="readme-images/Screenshot 2023-10-02 at 14.01.49.png" width="375px" alt="code van section tennis walk shoes">
+  <img src="readme-images/Screenshot 2023-10-11 at 19.33.59.png" width="375px" alt="tweede pagina voorgestelde gedeelte met hidden slider die niet lukte">
+  <img src="readme-images/Screenshot 2023-10-11 at 19.34.09.png" width="375px" alt="mijn variant van de voorgestelde gedeelte op de tweede pagina">
 
-  -ik had wat problemen met dit gedeelte en het lukte mij niet om het zelf op te lossen. Dus ik ben zo ver gekomen als mij zonder hulp gaat lukken, en de rest laat ik helaas voor wat het is. De vormgeving is uiteindelijk niet het belangrijkste.
+  -In de echte site gebruiken zij voor de tweede pagina een soort ingeklapte slider waar je maar twee artikelen tezien krijgt maar waar je door kan klikken naar de rest. Dan in groot scherm zie je ze allemaal. Ik heb lang geprobeerd dit na te maken maar het werd heel lelijk, dus heb ik gekozen om alle content onder elkaar te tonen in klein scherm. Dit vind ik sowieso een betere oplossing want dan kan je gelijk alle content zien.
 
 
   ### Agenda voor meeting
@@ -213,9 +223,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1: Ik moet mijn hamburger menu nog fixen.
-  - punt 2: Ook moet ik nog bepaalde dingen responsive maken zoals de nav en de section van de tennis schoenen..
-  - nog een punt
+  - punt 1: Ik moet mijn hamburger menu nog fixen. Hij werkt niet als je op de knop drukt en hij schaalt ook niet mee als je naar groot scherm gaat zoals op de echte site.
+  - punt 2: Ook moet ik nog bepaalde dingen responsive maken zoals de nav en de section van de tennis schoenen.
+  - punt 3: De section van de tennis schoenen is niet helemaal gelukt zoals ik het wilde maar uiteindelijk lijkt het er wel redelijk op, en het schaalt mee als je het kleiner maakt.
   - ...
 
 </details>
@@ -232,22 +242,34 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je uitkomst - karakteristiek screenshots:
   <img src="readme-images/Screenshot 2023-10-02 at 13.59.38.png" width="375px" alt="uitomst opdracht 1">
 
-  -In het algemeen ben ik best blij met hoe mijn eigen website is geworden. Het heeft zeker het gevoel van de Loro Piana website. Er zijn bepaalde dingen die ik nog zou willen verbeteren maar daar had ik extra hulp bij nodig.
+  -In het algemeen ben ik best blij met hoe mijn eigen website is geworden. Het heeft zeker het gevoel van de Loro Piana website. Er zijn bepaalde dingen die ik nog zou willen verbeteren maar daar had ik extra hulp bij nodig. Bijvoorbeeld de sliders zou ik mooier willen maken, de nav zou ik nog willen hebben dat die extra stukjes tekst erbij komen als je naar groot scherm gaat. 
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
   <img src="readme-images/Screenshot 2023-10-02 at 13.46.31.png" width="375px" alt="Responsive heb ik veel geleerd">
+  <img src="readme-images/Screenshot 2023-10-11 at 09.35.41.png" width="375px" alt="Responsive deel dat schaalt op groot scherm">
+  <img src="readme-images/Screenshot 2023-10-11 at 09.35.53.png" width="375px" alt="Responsive deel op klein sherm">
 
-  -Ik heb veel geleerd over grids gebruiken en hoe ik een website responsive moet. En ik ben vooral trots op deze elementen.
+  -Ik heb veel geleerd over grids gebruiken en hoe ik een website responsive moet. En ik ben vooral trots op deze elementen. Veel elementen in mijn site hebben verschillende interessante grids voor verschillende scherm groottes en dat was leuk om mee te experimenteren. Ook geeft het een duidelijk gevoel van responsiveness.
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/Screenshot 2023-10-02 at 13.45.55.png" width="375px" alt="bummer">
+  
+  <img src="readme-images/Screenshot 2023-10-02 at 13.45.55.png" width="375px" alt="section tennis walk shoes lukt niet">
+  <img src="readme-images/Screenshot 2023-10-02 at 14.01.49.png" width="375px" alt="code van section tennis walk shoes">
 
--Wat minder goed ging was deze section met de tennis schoenen. Het was een ingewikkelde grid en het lukte mij niet om het te laten lijken op de website. Ook lukte het mij niet om de nav helemaal te maken zoals in de echte site, want het veranderde de responsivness van de site.
+    -ik had wat problemen met dit gedeelte en het lukte mij niet om het zelf op te lossen. Dus ik ben zo ver gekomen als mij zonder hulp gaat lukken, en de rest laat ik helaas voor wat het is. De vormgeving is uiteindelijk niet het belangrijkste. De moeilijkheid voor mij lag bij het feit dat het een grid in een grid was, en dat hij ook nog is veranderde van vormgeving als hij groot schaalde. Ik heb dit nog nooit hoeven doen.
+
+  <img src="readme-images/Screenshot 2023-10-02 at 13.45.55.png" width="375px" alt="bummer">
+  <img src="readme-images/Screenshot 2023-10-11 at 09.41.14.png" width="375px" alt="Responsive nav op de echte site">
+  <img src="readme-images/Screenshot 2023-10-11 at 09.40.51.png" width="375px" alt="Responsive nav van mijn site">
+
+Ook lukte het mij niet om de nav helemaal te maken zoals in de echte site, want het veranderde de responsivness van de site. De items uit de hidden hamburger menu kwamen namelijk ineens tevoorschijn in de nav als het groot scherm werd en ik wist niet hoe ik die goed kon positioneren zodat zij gelijk stonden met de rest. Want bij mij was het onder de nav.
+
+Boven zie je de nav op groot scherm van de echte site, daaronder zie je mijn nav.
 
 </details>
 

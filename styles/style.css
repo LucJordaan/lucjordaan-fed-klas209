@@ -619,21 +619,6 @@ main section:nth-of-type(3) ul img{
   scroll-snap-align: start;
 }
 
-.slide-wrap ul:nth-of-type(2) {
-	display: flex;
-	justify-content: center;
-}
-
-.slide-wrap ul:nth-of-type(2) span{
-	background: var(--color-secondair);
-	color: #ffffff;
-	font-size: 0.9em;
-	width: 18px;
-	height:18px;
-	border-radius: 1em;
-	text-align: center;
-}
-
 @media only screen and (min-width: 800px) {
 	.fallwinter2023{
 		display: grid;
