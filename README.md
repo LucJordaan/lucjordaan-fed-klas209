@@ -80,6 +80,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### de hele pagina: 
   <img src="readme-images/Screenshot 2023-10-02 at 14.05.09.png" width="375px" alt="winkelmandje is leeg in groot scherm">
+  <img src="readme-images/Screenshot 2023-10-12 at 10.25.04.png" width="375px" alt="schets van hele pagina html">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/Screenshot 2023-10-02 at 14.05.03.png" width="375px" alt="gesuggesteerde items in groot scherm (slider)">
@@ -119,10 +120,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1: Ik moet mijn header echt afmaken
-  - punt 2: Ik moet eerst even de basis elementen in HTML zetten voordat ik teveel aan mijn vormgeving zit.
-  - nog een punt: Mijn background image werkte niet mee.
-  - ...
+  - punt 1: Ik moet mijn header afmaken. Ik was eerst gefocussed op de nav goed krijgen op klein scherm, maar daardoor moest ik mijn HTML helemaal anders maken voor groot scherm.
+  - punt 2: Ik moet eerst even de basis elementen in HTML zetten voordat ik teveel aan mijn vormgeving zit. Want ik heb nog maar twee weken en dan moet het af zijn, en als ik teveel aan de vormgeving zit nu dan gaik het niet afkrijgen.
+  - nog een punt: Mijn background image werkte niet mee. Ik had het eerst als achtergrond in css gedaan. Maar na bespreken met de docent heb ik het veranderd naar een image in html. Alleen de image was veel ste wijd dus ik moest dat in de css aanpassen.
+  
+  <img src="readme-images/Screenshot 2023-10-12 at 10.17.27.png" width="375px" alt="css code van mijn background image op de hoofdpagina">
+
 
 </details>
 
@@ -161,10 +164,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
+  <img src="readme-images/Screenshot 2023-10-12 at 10.22.47.png" width="375px" alt="screenshot van de website W3 schools met uitleg over mediaquery's">
+
   - punt 1: Ik heb de basis elementen in HTML en moet nu gaan beginnen aan de vormgeving
   - punt 2: De vormgeving is moeilijker dan ik dacht, en ik ben al heel veel tijd kwijt daaraan.
-  - punt 3: 
+  - punt 3: Ook heb ik nog niks responsive gemaakt dus ik moet daarmee aan de slag. Ik moet even leren hoe een media query werkt.
 - ...
+
 
 </details>
 
@@ -184,6 +190,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   -Verder werkte het navigeren door de site prima.
   -De screenreader werkte daarna gewoon zoals het hoort.
   -Alleen het element met die slider waar de screenreader steeds "link, link link" zegt moet ik weg halen.
+
+  <img src="readme-images/Screenshot 2023-10-12 at 10.19.40.png" width="375px" alt="css code van de navigatie bolletjes in de slider die ik weg heb gehaald">
 
 
   <img src="readme-images/Screenshot 2023-10-11 at 19.23.28.png" width="375px" alt="bovenkant van WDA checklist">
@@ -246,7 +254,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Korte omschrijving met plaatjess
 
   <img src="readme-images/Screenshot 2023-10-02 at 13.46.31.png" width="375px" alt="Responsive heb ik veel geleerd">
   <img src="readme-images/Screenshot 2023-10-11 at 09.35.41.png" width="375px" alt="Responsive deel dat schaalt op groot scherm">
